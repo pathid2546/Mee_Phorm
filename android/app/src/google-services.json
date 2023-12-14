@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385427495664",
+    "project_id": "mee-phorm",
+    "storage_bucket": "mee-phorm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385427495664:android:5c930b79c631a488f90035",
+        "android_client_info": {
+          "package_name": "com.example.meephrom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385427495664-por8752ikc2jsih8tk0sfk9vmqtbkl56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meephrom",
+            "certificate_hash": "5d71cbc25e57e239130bc758a039794c130556e4"
+          }
+        },
+        {
+          "client_id": "385427495664-o89l2mok29m0bbfsuhhfc2r0qvrmenhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrnGPvlQkcaCr8HXjBkh_Wa4sM94GnljA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385427495664-o89l2mok29m0bbfsuhhfc2r0qvrmenhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
